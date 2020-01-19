@@ -1,0 +1,95 @@
+package toExcel;
+
+import org.apache.poi.*;
+import org.apache.poi.hssf.usermodel.HSSFWorkbook;
+import org.apache.poi.ss.usermodel.Cell;
+import org.apache.poi.ss.usermodel.Row;
+import org.apache.poi.ss.usermodel.Sheet;
+import org.apache.poi.ss.usermodel.Workbook;
+
+import java.io.*;
+import java.lang.reflect.Array;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
+
+public class Converter {
+    String path;
+
+    Array[][] masterTable = new Array[0][0];
+
+
+
+
+    public Converter(String path) throws FileNotFoundException {
+        this.path = path;
+    }
+
+    public String umwandeln() throws IOException {
+        Workbook workbook = new HSSFWorkbook();
+
+        Sheet sheet1 = workbook.createSheet();
+        Row reihe = sheet1.createRow(0);
+        Cell zelle = reihe.createCell(3);
+        zelle.setCellValue("Retentions Zeit");
+
+        String dateiName = path.substring(26);
+        System.out.println(dateiName);
+
+        try {
+            //mache einen FileOutputStream, den wir später verwenden um Sachen
+            //auf unserer Festplatte speichern zu können
+            FileOutputStream output = new FileOutputStream(dateiName); // "C:\\Users\\Nutzer\\Documents\\Dateien_Georg_Uni\\" +
+
+            //schreibe die Datei auf unsere Festplatte
+            workbook.write(output);
+
+            //beenden wir das Ganze, indem wir das Output wieder schließen
+            output.close();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+        Boolean neverFound = true;
+
+        String content = new String(Files.readAllBytes(Paths.get(path)));
+
+        File f1 = new File(path); //Creation of File Descriptor for input file
+        String[] words = null;  //Intialize the word Array
+        FileReader fr = new FileReader(f1);  //Creation of File Reader object
+        BufferedReader br = new BufferedReader(fr); //Creation of BufferedReader object
+        String s;
+        String input = "Range          \tPeak      \tRet.Time  \tArea           \t% Area";   // Input word to be searched
+        int count = 0;   //Intialize the word to zero
+        while ((s = br.readLine()) != null)   //Reading Content from the file
+        {
+            if (neverFound) {
+                String regex = "Range[ ,\\t]*Peak[ ,\\t]*Ret\\.Time[ ,\\t]*Area[ ,\\t]*%\\sArea[ ,\\t]*";
+
+                Pattern pattern = Pattern.compile(regex, Pattern.CASE_INSENSITIVE);
+                Matcher matcher = pattern.matcher(s);
+                if (matcher.find()) {
+                    neverFound = false;
+                }
+            } else {
+                String regex = "\\d\\d:\\d\\d";
+
+                Pattern pattern = Pattern.compile(regex, Pattern.CASE_INSENSITIVE);
+                Matcher matcher = pattern.matcher(s);
+
+                if (matcher.find()) {
+
+                }
+
+            }
+
+
+        }
+
+        fr.close();
+
+        return content;
+    }
+}
