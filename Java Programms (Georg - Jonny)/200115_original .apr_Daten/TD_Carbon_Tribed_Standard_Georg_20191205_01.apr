@@ -1,0 +1,190 @@
+Peak Found and Nist Forward Search Report
+  C:\ER IQ\H2671\Reports\Analyze\ThermalDesorber\TD_Carbon_Tribed_Standard_Georg\TD_Carbon_Tribed_Standard_Georg_20191205_01.apr
+  Reporting Date and Time - 1/15/2020 12:19:41 PM
+Full Scan Data:
+  /Data/Analyze/ThermalDesorber/TD_Carbon_Tribed_Standard_Georg/TD_Carbon_Tribed_Standard_Georg_20191205_01.hps on H2671
+GPS Info:
+  Valid GPS Information Not Available
+Acquisition Date and Time:
+  12/5/2019 11:23:33 AM
+Acquisition Method:
+  /Haps/Method/Analyze/ThermalDesorber/TD_Carbon_Tribed_Standard_Georg.mth
+Tune/Cal File:
+  default.tun
+
+Peak Search Parameters:
+  Peak Resolution:	5
+  Minimum RIC Area:	50000
+  Minimum TIC Area:	0
+  Minimum Width:	7
+  Maximum Width:	70
+  Noise Level Multiplier:	2.0
+
+15 Peaks Found for TIC
+Range          	Peak      	Ret.Time  	Area           	% Area    
+28 - 53        	40        	00:46     	4278146        	1.73      
+	1.	L-Alanine, 3-sulfo-
+		SI #: 728	Formula: C3H7NO5S	CAS #: 498408
+	2.	(N-(-2-Acetamido))-2-aminoethanesulfonic
+		SI #: 724	Formula: C4H10N2O4S	CAS #: 7365824
+	3.	Aminomethanesulfonic acid
+		SI #: 710	Formula: CH5NO3S	CAS #: 13881919
+	4.	Sulfur dioxide
+		SI #: 702	Formula: O2S	CAS #: 7446095
+	5.	L-Cysteine sulfinic acid
+		SI #: 699	Formula: C3H7NO4S	CAS #: 1115657
+72 - 97        	86        	01:21     	19670314       	7.95      
+	1.	HAPSITE Internal Standard # 1 (TRIS)
+		SI #: 892	Formula: C9H3F9	CAS #: 729817
+	2.	HAPSITE Internal Standard # 1 (TRIS)(DUP1)
+		SI #: 883	Formula: C9H3F9	CAS #: 729817
+	3.	1,3,5-Tris(trifluoromethyl)benzene
+		SI #: 867	Formula: C9H3F9	CAS #: 729817
+	4.	1,3,5-Tris(trifluoromethyl)benzene(DUP1)
+		SI #: 773	Formula: C9H3F9	CAS #: 729817
+	5.	HAPSITE Internal Standard # 1 (TRIS)(DUP2)
+		SI #: 712	Formula: C9H3F9	CAS #: 729817
+97 - 107       	103       	01:34     	1267279        	0.51      
+	1.	Benzene
+		SI #: 824	Formula: C6H6	CAS #: 71432
+	2.	Benzene(DUP1)
+		SI #: 811	Formula: C6H6	CAS #: 71432
+	3.	Benzene(DUP2)
+		SI #: 804	Formula: C6H6	CAS #: 71432
+	4.	Benzene(DUP3)
+		SI #: 788	Formula: C6H6	CAS #: 71432
+	5.	Fumaronitrile
+		SI #: 751	Formula: C4H2N2	CAS #: 764421
+107 - 115      	110       	01:40     	4908508        	1.98      
+	1.	Pregn-4-ene-3,20-dione, 17,21-dihydroxy-
+		SI #: 402	Formula: C23H36N2O4	CAS #: 55557090
+	2.	3-Piperidino-2-(4-chlorphenyl)-dithioacr
+		SI #: 390	Formula: C15H18ClNS2	CAS #: none
+	3.	Benzoic acid, 3,4-di(acetyloxy)-, methyl
+		SI #: 388	Formula: C12H12O6	CAS #: none
+	4.	1-(2-Hydroxyethyl-1-thio)-4-methylbenzen
+		SI #: 387	Formula: C9H12OS	CAS #: none
+	5.	Benzene, pentafluoro-
+		SI #: 384	Formula: C6HF5	CAS #: 363724
+115 - 151      	117       	01:45     	10468866       	4.23      
+	1.	Benzoic acid, pentafluoro-
+		SI #: 394	Formula: C7HF5O2	CAS #: 602948
+	2.	Isoborneol, pentafluorobenzoate (ester)
+		SI #: 383	Formula: C17H17F5O2	CAS #: none
+	3.	Folic Acid
+		SI #: 382	Formula: C19H19N7O6	CAS #: 59303
+	4.	Methocarbamol, 2TMS derivative
+		SI #: 373	Formula: C17H31NO5Si2	CAS #: none
+	5.	(R)-(+)-Arachidonyl-1\\ffffff92-hydroxy-
+		SI #: 366	Formula: C23H39NO2	CAS #: 157182495
+164 - 179      	175       	02:30     	1014548        	0.41      
+	1.	Toluene
+		SI #: 843	Formula: C7H8	CAS #: 108883
+	2.	Toluene(DUP1)
+		SI #: 840	Formula: C7H8	CAS #: 108883
+	3.	Toluene(DUP2)
+		SI #: 831	Formula: C7H8	CAS #: 108883
+	4.	Toluene(DUP3)
+		SI #: 827	Formula: C7H8	CAS #: 108883
+	5.	Spiro[2,4]hepta-4,6-diene
+		SI #: 821	Formula: C7H8	CAS #: 765468
+179 - 186      	181       	02:35     	381597         	0.15      
+	1.	N,N-Dibenzyl-1-(benzylthio)-3,4,4-trichl
+		SI #: 445	Formula: C25H21Cl3N2O2S	CAS #: none
+	2.	3,3-Bis-benzylsulfanyl-2-fluoro-acryloni
+		SI #: 438	Formula: C17H14FNS2	CAS #: none
+	3.	3H-[1,2,3]Triazolo[4,5-d]pyrimidine, 7-(
+		SI #: 435	Formula: C17H21N7	CAS #: none
+	4.	Methyl 3,4,6-tri-O-acetyl-N-(N-benzyloxy
+		SI #: 431	Formula: C25H32N2O13	CAS #: 5513597
+	5.	3-Benzylsulfanyl-3-fluoro-2-trifluoromet
+		SI #: 427	Formula: C12H10F4O2S	CAS #: none
+192 - 218      	200       	02:50     	1408821        	0.57      
+	1.	3-Benzylsulfanyl-3-fluoro-2-trifluoromet
+		SI #: 609	Formula: C11H7F4NS	CAS #: none
+	2.	3-Benzylsulfanyl-3-fluoro-2-trifluoromet(DUP1)
+		SI #: 597	Formula: C12H10F4O2S	CAS #: none
+	3.	Toluene
+		SI #: 590	Formula: C7H8	CAS #: 108883
+	4.	3,3-Bis-benzylsulfanyl-2-fluoro-acryloni
+		SI #: 581	Formula: C17H14FNS2	CAS #: none
+	5.	Toluene(DUP1)
+		SI #: 580	Formula: C7H8	CAS #: 108883
+255 - 279      	265       	03:40     	22145980       	8.95      
+	1.	HAPSITE Internal Standard # 2 (BPFB)
+		SI #: 923	Formula: C6BrF5	CAS #: 344047
+	2.	HAPSITE Internal Standard # 2 (BPFB)(DUP1)
+		SI #: 915	Formula: C6BrF5	CAS #: 344047
+	3.	HAPSITE Internal Standard # 2 (BPFB)(DUP2)
+		SI #: 913	Formula: C6BrF5	CAS #: 344047
+	4.	HAPSITE Internal Standard # 2 (BPFB)(DUP3)
+		SI #: 904	Formula: C6BrF5	CAS #: 344047
+	5.	Benzene, bromopentafluoro-
+		SI #: 896	Formula: C6BrF5	CAS #: 344047
+283 - 299      	288       	03:58     	910358         	0.37      
+	1.	6,9,12-Octadecatrienoic acid, methyl est
+		SI #: 444	Formula: C19H32O2	CAS #: 2676417
+	2.	Z,Z,Z-1,4,6,9-Nonadecatetraene
+		SI #: 433	Formula: C19H32	CAS #: none
+	3.	Ethyl 5,8,11,14,17-icosapentaenoate
+		SI #: 433	Formula: C22H34O2	CAS #: 84494702
+	4.	Sulfuric acid, 5,8,11-heptadecatrienyl m
+		SI #: 430	Formula: C18H32O3S	CAS #: 56554677
+	5.	5,8,11-Heptadecatrien-1-ol
+		SI #: 429	Formula: C17H30O	CAS #: 22117095
+413 - 431      	428       	05:47     	520998         	0.21      
+	1.	Benzonitrile
+		SI #: 712	Formula: C7H5N	CAS #: 100470
+	2.	Benzonitrile(DUP1)
+		SI #: 710	Formula: C7H5N	CAS #: 100470
+	3.	Benzonitrile(DUP2)
+		SI #: 708	Formula: C7H5N	CAS #: 100470
+	4.	Tricyclo[3.1.0.0(2,4)]hex-3-ene-3-carbon
+		SI #: 700	Formula: C7H5N	CAS #: 103495518
+	5.	6H-1,2,5-Oxadiazine-6-thione, 4,5-dihydr
+		SI #: 687	Formula: C9H8N2OS	CAS #: 33406074
+555 - 574      	565       	07:33     	800413         	0.32      
+	1.	4,7-Methano-1H-indene, octahydro-
+		SI #: 663	Formula: C10H16	CAS #: 6004382
+	2.	1-Cyclopentylcyclopentene
+		SI #: 648	Formula: C10H16	CAS #: 4884213
+	3.	Exo-tricyclo[5.2.1.0(2.6)]decane
+		SI #: 648	Formula: C10H16	CAS #: none
+	4.	Endo-tricyclo[5.2.1.0(2.6)]decane
+		SI #: 638	Formula: C10H16	CAS #: none
+	5.	4,7-Methano-1H-indene, octahydro-(DUP1)
+		SI #: 637	Formula: C10H16	CAS #: 6004382
+574 - 589      	582       	07:46     	342769         	0.14      
+	1.	Tetrasiloxane, decamethyl-
+		SI #: 578	Formula: C10H30O3Si4	CAS #: 141628
+	2.	Methyltris(trimethylsiloxy)silane
+		SI #: 551	Formula: C10H30O3Si4	CAS #: 17928288
+	3.	Methyltris(trimethylsiloxy)silane(DUP1)
+		SI #: 550	Formula: C10H30O3Si4	CAS #: 17928288
+	4.	Tetrasiloxane, decamethyl-(DUP1)
+		SI #: 549	Formula: C10H30O3Si4	CAS #: 141628
+	5.	Tetrasiloxane, decamethyl-(DUP2)
+		SI #: 544	Formula: C10H30O3Si4	CAS #: 141628
+595 - 611      	601       	08:01     	574755         	0.23      
+	1.	Exo-tricyclo[5.2.1.0(2.6)]decane
+		SI #: 608	Formula: C10H16	CAS #: none
+	2.	4,7-Methano-1H-indene, octahydro-
+		SI #: 604	Formula: C10H16	CAS #: 6004382
+	3.	Endo-tricyclo[5.2.1.0(2.6)]decane
+		SI #: 588	Formula: C10H16	CAS #: none
+	4.	4,7-Methano-1H-indene, octahydro-(DUP1)
+		SI #: 582	Formula: C10H16	CAS #: 6004382
+	5.	Tricyclo[5.3.0.0(4,8)]decane
+		SI #: 574	Formula: C10H16	CAS #: 19485202
+666 - 680      	672       	08:57     	1630538        	0.66      
+	1.	Benzeneethanamine, N-[(pentafluorophenyl
+		SI #: 671	Formula: C21H26F5NO2Si2	CAS #: 55429851
+	2.	Salicylic acid, 2TMS derivative
+		SI #: 670	Formula: C13H22O3Si2	CAS #: 3789853
+	3.	2-[(Trimethylsilyl)oxy]-2-{4-[(trimethyl
+		SI #: 669	Formula: C14H27NO2Si2	CAS #: none
+	4.	Salicylic acid, 2TMS derivative(DUP1)
+		SI #: 655	Formula: C13H22O3Si2	CAS #: 3789853
+	5.	Salicylic acid, 2TMS derivative(DUP2)
+		SI #: 639	Formula: C13H22O3Si2	CAS #: 3789853
+

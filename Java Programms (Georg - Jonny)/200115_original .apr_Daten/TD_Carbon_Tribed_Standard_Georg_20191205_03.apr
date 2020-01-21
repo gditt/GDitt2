@@ -1,0 +1,300 @@
+Peak Found and Nist Forward Search Report
+  C:\ER IQ\H2671\Reports\Analyze\ThermalDesorber\TD_Carbon_Tribed_Standard_Georg\TD_Carbon_Tribed_Standard_Georg_20191205_03.apr
+  Reporting Date and Time - 1/15/2020 12:36:13 PM
+Full Scan Data:
+  /Data/Analyze/ThermalDesorber/TD_Carbon_Tribed_Standard_Georg/TD_Carbon_Tribed_Standard_Georg_20191205_03.hps on H2671
+GPS Info:
+  Valid GPS Information Not Available
+Acquisition Date and Time:
+  12/5/2019 12:24:27 PM
+Acquisition Method:
+  /Haps/Method/Analyze/ThermalDesorber/TD_Carbon_Tribed_Standard_Georg.mth
+Tune/Cal File:
+  default.tun
+
+Peak Search Parameters:
+  Peak Resolution:	5
+  Minimum RIC Area:	50000
+  Minimum TIC Area:	0
+  Minimum Width:	7
+  Maximum Width:	70
+  Noise Level Multiplier:	2.0
+
+25 Peaks Found for TIC
+Range          	Peak      	Ret.Time  	Area           	% Area    
+27 - 46        	42        	00:47     	895191         	0.15      
+	1.	(N-(-2-Acetamido))-2-aminoethanesulfonic
+		SI #: 620	Formula: C4H10N2O4S	CAS #: 7365824
+	2.	Taurine
+		SI #: 608	Formula: C2H7NO3S	CAS #: 107357
+	3.	L-Alanine, 3-sulfo-
+		SI #: 577	Formula: C3H7NO5S	CAS #: 498408
+	4.	Ethanesulfonyl chloride
+		SI #: 543	Formula: C2H5ClO2S	CAS #: 594445
+	5.	Aminomethanesulfonic acid
+		SI #: 539	Formula: CH5NO3S	CAS #: 13881919
+46 - 75        	58        	01:00     	170633152      	28.61     
+	1.	Methylene chloride
+		SI #: 935	Formula: CH2Cl2	CAS #: 75092
+	2.	Methylene chloride(DUP1)
+		SI #: 933	Formula: CH2Cl2	CAS #: 75092
+	3.	Methylene chloride(DUP2)
+		SI #: 894	Formula: CH2Cl2	CAS #: 75092
+	4.	Methylene chloride(DUP3)
+		SI #: 880	Formula: CH2Cl2	CAS #: 75092
+	5.	Methylene chloride(DUP4)
+		SI #: 876	Formula: CH2Cl2	CAS #: 75092
+82 - 98        	86        	01:21     	8552100        	1.43      
+	1.	HAPSITE Internal Standard # 1 (TRIS)
+		SI #: 886	Formula: C9H3F9	CAS #: 729817
+	2.	HAPSITE Internal Standard # 1 (TRIS)(DUP1)
+		SI #: 871	Formula: C9H3F9	CAS #: 729817
+	3.	1,3,5-Tris(trifluoromethyl)benzene
+		SI #: 855	Formula: C9H3F9	CAS #: 729817
+	4.	1,3,5-Tris(trifluoromethyl)benzene(DUP1)
+		SI #: 782	Formula: C9H3F9	CAS #: 729817
+	5.	HAPSITE Internal Standard # 1 (TRIS)(DUP2)
+		SI #: 687	Formula: C9H3F9	CAS #: 729817
+101 - 136      	102       	01:34     	3541112        	0.59      
+	1.	Benzene
+		SI #: 551	Formula: C6H6	CAS #: 71432
+	2.	Benzene(DUP1)
+		SI #: 550	Formula: C6H6	CAS #: 71432
+	3.	6-Azidotetrazolo(b)pyridazine
+		SI #: 537	Formula: C4H2N8	CAS #: 14393794
+	4.	2-Cyanosuccinonitrile
+		SI #: 536	Formula: C5H3N3	CAS #: 39805986
+	5.	Fumaronitrile
+		SI #: 534	Formula: C4H2N2	CAS #: 764421
+167 - 182      	174       	02:30     	1760985        	0.30      
+	1.	Cyclobutene, 2-propenylidene-
+		SI #: 874	Formula: C7H8	CAS #: 52097855
+	2.	1,3,5-Cycloheptatriene
+		SI #: 874	Formula: C7H8	CAS #: 544252
+	3.	Toluene
+		SI #: 868	Formula: C7H8	CAS #: 108883
+	4.	Toluene(DUP1)
+		SI #: 863	Formula: C7H8	CAS #: 108883
+	5.	Toluene(DUP2)
+		SI #: 857	Formula: C7H8	CAS #: 108883
+254 - 283      	263       	03:39     	24444654       	4.10      
+	1.	HAPSITE Internal Standard # 2 (BPFB)
+		SI #: 918	Formula: C6BrF5	CAS #: 344047
+	2.	HAPSITE Internal Standard # 2 (BPFB)(DUP1)
+		SI #: 908	Formula: C6BrF5	CAS #: 344047
+	3.	HAPSITE Internal Standard # 2 (BPFB)(DUP2)
+		SI #: 906	Formula: C6BrF5	CAS #: 344047
+	4.	HAPSITE Internal Standard # 2 (BPFB)(DUP3)
+		SI #: 906	Formula: C6BrF5	CAS #: 344047
+	5.	HAPSITE Internal Standard # 2 (BPFB)(DUP4)
+		SI #: 900	Formula: C6BrF5	CAS #: 344047
+283 - 300      	286       	03:57     	2812082        	0.47      
+	1.	Condyfolan, 14,19-didehydro-12-methoxy-,
+		SI #: 414	Formula: C19H24N2O	CAS #: 54833533
+	2.	Cinchonine
+		SI #: 407	Formula: C19H22N2O	CAS #: 118105
+	3.	3-Methylquebrachamine
+		SI #: 407	Formula: C20H28N2	CAS #: none
+	4.	Disilane, 1,1,1,2,2-pentamethyl-2-[(cycl
+		SI #: 405	Formula: C15H26SSi2	CAS #: none
+	5.	Cinchonine(DUP1)
+		SI #: 397	Formula: C19H22N2O	CAS #: 118105
+386 - 399      	394       	05:21     	706223         	0.12      
+	1.	1,2,4-Trioxolane, 3,5-diphenyl-
+		SI #: 599	Formula: C14H12O3	CAS #: 23888155
+	2.	Benzaldehyde
+		SI #: 594	Formula: C7H6O	CAS #: 100527
+	3.	Benzaldehyde(DUP1)
+		SI #: 593	Formula: C7H6O	CAS #: 100527
+	4.	Benzaldehyde(DUP2)
+		SI #: 591	Formula: C7H6O	CAS #: 100527
+	5.	Benzaldehyde(DUP3)
+		SI #: 589	Formula: C7H6O	CAS #: 100527
+410 - 428      	424       	05:44     	1491803        	0.25      
+	1.	Benzonitrile
+		SI #: 694	Formula: C7H5N	CAS #: 100470
+	2.	Benzonitrile(DUP1)
+		SI #: 686	Formula: C7H5N	CAS #: 100470
+	3.	Tricyclo[3.1.0.0(2,4)]hex-3-ene-3-carbon
+		SI #: 686	Formula: C7H5N	CAS #: 103495518
+	4.	2-Ethynyl pyridine
+		SI #: 682	Formula: C7H5N	CAS #: 1945842
+	5.	6H-1,2,5-Oxadiazine-6-thione, 4,5-dihydr
+		SI #: 678	Formula: C9H8N2OS	CAS #: 33406074
+428 - 449      	436       	05:53     	2075217        	0.35      
+	1.	Carbamic acid, methyl-, phenyl ester
+		SI #: 635	Formula: C8H9NO2	CAS #: 1943799
+	2.	Phenyl-á-D-glucoside
+		SI #: 603	Formula: C12H16O6	CAS #: 1464444
+	3.	Acetic acid, phenyl ester
+		SI #: 583	Formula: C8H8O2	CAS #: 122792
+	4.	tert-Butyl phenyl carbonate
+		SI #: 580	Formula: C11H14O3	CAS #: 6627890
+	5.	Benzene, (1,1-dimethylethoxy)-
+		SI #: 579	Formula: C10H14O	CAS #: 6669132
+455 - 472      	460       	06:12     	458033         	0.08      
+	1.	1,4-Diphenyl-1-pentanone
+		SI #: 534	Formula: C17H18O	CAS #: 72256087
+	2.	10,13-Octadecadiynoic acid, methyl ester
+		SI #: 497	Formula: C19H30O2	CAS #: 18202249
+	3.	Valeric acid, 4-phenyl-
+		SI #: 490	Formula: C11H14O2	CAS #: 16433435
+	4.	Benzoic acid, 2,5-dimethyl-, (2,5-dimeth
+		SI #: 478	Formula: C18H20O2	CAS #: 55000492
+	5.	Benzoic acid, 2,4-dimethyl-, (2,4-dimeth
+		SI #: 475	Formula: C18H20O2	CAS #: 55000436
+475 - 495      	484       	06:31     	3417487        	0.57      
+	1.	Cyclotetrasiloxane, octamethyl-
+		SI #: 914	Formula: C8H24O4Si4	CAS #: 556672
+	2.	Cyclotetrasiloxane, octamethyl-(DUP1)
+		SI #: 892	Formula: C8H24O4Si4	CAS #: 556672
+	3.	trisiloxane, 1,1,1,5,5,5-hexamethyl-3-[(
+		SI #: 882	Formula: C9H28O3Si4	CAS #: none
+	4.	Cyclotetrasiloxane, octamethyl-(DUP2)
+		SI #: 856	Formula: C8H24O4Si4	CAS #: 556672
+	5.	Cyclotetrasiloxane, octamethyl-(DUP3)
+		SI #: 853	Formula: C8H24O4Si4	CAS #: 556672
+550 - 562      	559       	07:29     	554930         	0.09      
+	1.	Isobornyl thiocyanoacetate
+		SI #: 580	Formula: C13H19NO2S	CAS #: 115311
+	2.	Isopulegol
+		SI #: 578	Formula: C10H18O	CAS #: 89792
+	3.	Geranyl isovalerate
+		SI #: 571	Formula: C15H26O2	CAS #: 109206
+	4.	Isopulegol(DUP1)
+		SI #: 569	Formula: C10H18O	CAS #: 89792
+	5.	Isopulegol(DUP2)
+		SI #: 567	Formula: C10H18O	CAS #: 89792
+562 - 568      	564       	07:32     	391607         	0.07      
+	1.	1,2-Propanediol, 3-(tetradecyloxy)-
+		SI #: 484	Formula: C17H36O3	CAS #: 1561064
+	2.	Hexadecane, 1,1-bis(dodecyloxy)-
+		SI #: 470	Formula: C40H82O2	CAS #: 56554644
+	3.	Fumaric acid, hexyl tridecyl ester
+		SI #: 468	Formula: C23H42O4	CAS #: none
+	4.	i-Propyl 11,12-methylene-octadecanoate
+		SI #: 466	Formula: C22H42O2	CAS #: none
+	5.	Fumaric acid, heptyl tridecyl ester
+		SI #: 460	Formula: C24H44O4	CAS #: none
+579 - 592      	586       	07:50     	1499556        	0.25      
+	1.	Nonanal
+		SI #: 760	Formula: C9H18O	CAS #: 124196
+	2.	Nonanal(DUP1)
+		SI #: 759	Formula: C9H18O	CAS #: 124196
+	3.	Undecanal
+		SI #: 757	Formula: C11H22O	CAS #: 112447
+	4.	Nonanal(DUP2)
+		SI #: 756	Formula: C9H18O	CAS #: 124196
+	5.	Dodecanal
+		SI #: 755	Formula: C12H24O	CAS #: 112549
+592 - 599      	594       	07:56     	316238         	0.05      
+	1.	Octadecane, 3-ethyl-5-(2-ethylbutyl)-
+		SI #: 426	Formula: C26H54	CAS #: 55282127
+	2.	N-[3-[N-Aziridyl]propylidene]tetrahydrof
+		SI #: 413	Formula: C10H18N2O	CAS #: none
+	3.	Octadecane, 5-methyl-
+		SI #: 406	Formula: C19H40	CAS #: 25117355
+	4.	Piperazine, 1-[5-fluoropentyl]-4-[(3,4-d
+		SI #: 406	Formula: C17H23Cl2FN2O	CAS #: 141044942
+	5.	Tetrahydrofurfuryl oleate
+		SI #: 396	Formula: C23H42O3	CAS #: 150812
+599 - 607      	603       	08:03     	876906         	0.15      
+	1.	Heneicosane, 11-(1-ethylpropyl)-
+		SI #: 663	Formula: C26H54	CAS #: 55282116
+	2.	Octadecane, 6-methyl-
+		SI #: 657	Formula: C19H40	CAS #: 10544964
+	3.	Decane, 2,4,6-trimethyl-
+		SI #: 631	Formula: C13H28	CAS #: 62108274
+	4.	Tetradecane
+		SI #: 630	Formula: C14H30	CAS #: 629594
+	5.	Heptadecane
+		SI #: 628	Formula: C17H36	CAS #: 629787
+607 - 617      	612       	08:10     	1028887        	0.17      
+	1.	Carbonic acid, 2-ethylhexyl octyl ester
+		SI #: 489	Formula: C17H34O3	CAS #: none
+	2.	Methoxyacetic acid, 2-ethylhexyl ester
+		SI #: 469	Formula: C11H22O3	CAS #: none
+	3.	Carbonic acid, bis(2-ethylhexyl) ester
+		SI #: 467	Formula: C17H34O3	CAS #: 14858732
+	4.	Carbonic acid, 2-ethylhexyl nonyl ester
+		SI #: 455	Formula: C18H36O3	CAS #: none
+	5.	Carbonic acid, 2-ethylhexyl heptadecyl e
+		SI #: 453	Formula: C26H52O3	CAS #: none
+617 - 631      	622       	08:17     	1370670        	0.23      
+	1.	Undecane, 2,6-dimethyl-
+		SI #: 582	Formula: C13H28	CAS #: 17301234
+	2.	Dodecane
+		SI #: 578	Formula: C12H26	CAS #: 112403
+	3.	Nonane, 4,5-dimethyl-
+		SI #: 574	Formula: C11H24	CAS #: 17302237
+	4.	Dodecane(DUP1)
+		SI #: 573	Formula: C12H26	CAS #: 112403
+	5.	Decane, 2,6,7-trimethyl-
+		SI #: 570	Formula: C13H28	CAS #: 62108252
+631 - 639      	635       	08:28     	547496         	0.09      
+	1.	Ethanol, 2-(octadecyloxy)-
+		SI #: 554	Formula: C20H42O2	CAS #: 2136723
+	2.	Phytol
+		SI #: 553	Formula: C20H40O	CAS #: 150867
+	3.	Geranyl isovalerate
+		SI #: 553	Formula: C15H26O2	CAS #: 109206
+	4.	Aspidospermidin-17-ol, 1-acetyl-19,21-ep
+		SI #: 552	Formula: C23H30N2O5	CAS #: 2122261
+	5.	4-Methyldocosane
+		SI #: 545	Formula: C23H48	CAS #: 25117300
+639 - 650      	642       	08:33     	734142         	0.12      
+	1.	3-Methyldec-3-ene
+		SI #: 441	Formula: C11H22	CAS #: 36969752
+	2.	4-Octadecenal
+		SI #: 437	Formula: C18H34O	CAS #: 56554984
+	3.	5-Octadecenal
+		SI #: 416	Formula: C18H34O	CAS #: 56554882
+	4.	15-Hydroxypentadecanoic acid
+		SI #: 415	Formula: C15H30O3	CAS #: 4617338
+	5.	2-Undecanethiol, 2-methyl-
+		SI #: 412	Formula: C12H26S	CAS #: 10059139
+650 - 663      	656       	08:44     	388594         	0.07      
+	1.	2-Hydroxy-1,1,10-trimethyl-6,9-epidioxyd
+		SI #: 590	Formula: C13H22O3	CAS #: 108511859
+	2.	N-[3-[N-Aziridyl]propylidene]tetrahydrof
+		SI #: 580	Formula: C10H18N2O	CAS #: none
+	3.	Z-10-Methyl-11-tetradecen-1-ol propionat
+		SI #: 575	Formula: C18H34O2	CAS #: none
+	4.	2-Butyloxycarbonyloxy-1,1,10-trimethyl-6
+		SI #: 574	Formula: C18H30O5	CAS #: 108533240
+	5.	10-Methyl-E-11-tridecen-1-ol propionate
+		SI #: 565	Formula: C17H32O2	CAS #: none
+663 - 681      	670       	08:55     	1511067        	0.25      
+	1.	Salicylic acid, 2TMS derivative
+		SI #: 555	Formula: C13H22O3Si2	CAS #: 3789853
+	2.	Salicylic acid, 2TMS derivative(DUP1)
+		SI #: 547	Formula: C13H22O3Si2	CAS #: 3789853
+	3.	trans-3-(2,2-Dichlorovinyl)-2,2-dimethyl
+		SI #: 528	Formula: C14H24Cl2O2Si	CAS #: none
+	4.	(R)-(-)-Phenylephrine, bis(trimethylsily
+		SI #: 528	Formula: C15H29NO2Si2	CAS #: none
+	5.	2-[(Trimethylsilyl)oxy]-2-{4-[(trimethyl
+		SI #: 525	Formula: C14H27NO2Si2	CAS #: none
+684 - 698      	690       	09:10     	1712923        	0.29      
+	1.	Decanal
+		SI #: 807	Formula: C10H20O	CAS #: 112312
+	2.	Decanal(DUP1)
+		SI #: 796	Formula: C10H20O	CAS #: 112312
+	3.	Decanal(DUP2)
+		SI #: 789	Formula: C10H20O	CAS #: 112312
+	4.	Decanal(DUP3)
+		SI #: 786	Formula: C10H20O	CAS #: 112312
+	5.	Decanal(DUP4)
+		SI #: 774	Formula: C10H20O	CAS #: 112312
+714 - 757      	723       	09:36     	10762096       	1.80      
+	1.	1-Phenoxypropan-2-ol
+		SI #: 865	Formula: C9H12O2	CAS #: 770354
+	2.	1-Phenoxypropan-2-ol(DUP1)
+		SI #: 841	Formula: C9H12O2	CAS #: 770354
+	3.	1-Phenoxypropan-2-ol(DUP2)
+		SI #: 839	Formula: C9H12O2	CAS #: 770354
+	4.	1-Propanol, 3-phenoxy-
+		SI #: 836	Formula: C9H12O2	CAS #: 6180616
+	5.	1-Propanol, 3-phenoxy-(DUP1)
+		SI #: 771	Formula: C9H12O2	CAS #: 6180616
+

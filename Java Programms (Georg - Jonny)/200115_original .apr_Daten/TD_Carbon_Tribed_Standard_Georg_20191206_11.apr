@@ -1,0 +1,98 @@
+Peak Found and Nist Forward Search Report
+  C:\ER IQ\H2671\Reports\Analyze\ThermalDesorber\TD_Carbon_Tribed_Standard_Georg\TD_Carbon_Tribed_Standard_Georg_20191206_11.apr
+  Reporting Date and Time - 1/15/2020 1:32:52 PM
+Full Scan Data:
+  /Data/Analyze/ThermalDesorber/TD_Carbon_Tribed_Standard_Georg/TD_Carbon_Tribed_Standard_Georg_20191206_11.hps on H2671
+GPS Info:
+  Valid GPS Information Not Available
+Acquisition Date and Time:
+  12/6/2019 3:16:30 PM
+Acquisition Method:
+  /Haps/Method/Analyze/ThermalDesorber/TD_Carbon_Tribed_Standard_Georg.mth
+Tune/Cal File:
+  default.tun
+
+Peak Search Parameters:
+  Peak Resolution:	5
+  Minimum RIC Area:	50000
+  Minimum TIC Area:	0
+  Minimum Width:	7
+  Maximum Width:	70
+  Noise Level Multiplier:	2.0
+
+7 Peaks Found for TIC
+Range          	Peak      	Ret.Time  	Area           	% Area    
+15 - 27        	18        	00:29     	327931         	0.01      
+	1.	Calconcarboxylic acid
+		SI #: 433	Formula: C21H14N2O7S	CAS #: 3737959
+	2.	Chlorozotocin
+		SI #: 415	Formula: C9H16ClN3O7	CAS #: 54749905
+	3.	S-2-[2-[6-Methoxy-4-quinolyloxy]ethylami
+		SI #: 393	Formula: C14H18N2O5S2	CAS #: none
+27 - 73        	56        	00:58     	2791916032     	70.28     
+	1.	Methylene chloride
+		SI #: 940	Formula: CH2Cl2	CAS #: 75092
+	2.	Methylene chloride(DUP1)
+		SI #: 935	Formula: CH2Cl2	CAS #: 75092
+	3.	Methylene chloride(DUP2)
+		SI #: 926	Formula: CH2Cl2	CAS #: 75092
+	4.	Methylene chloride(DUP3)
+		SI #: 894	Formula: CH2Cl2	CAS #: 75092
+	5.	Methylene chloride(DUP4)
+		SI #: 843	Formula: CH2Cl2	CAS #: 75092
+73 - 111       	77        	01:14     	448157056      	11.28     
+	1.	Undecane, 2,2-dimethyl-
+		SI #: 743	Formula: C13H28	CAS #: 17312640
+	2.	Decane, 2,2-dimethyl-
+		SI #: 737	Formula: C12H26	CAS #: 17302373
+	3.	Pentane, 2,2,3-trimethyl-
+		SI #: 721	Formula: C8H18	CAS #: 564023
+	4.	Pentane, 2,2,4-trimethyl-
+		SI #: 720	Formula: C8H18	CAS #: 540841
+	5.	Pentane, 2,2,3-trimethyl-(DUP1)
+		SI #: 718	Formula: C8H18	CAS #: 564023
+250 - 278      	261       	03:37     	15515462       	0.39      
+	1.	HAPSITE Internal Standard # 2 (BPFB)
+		SI #: 906	Formula: C6BrF5	CAS #: 344047
+	2.	HAPSITE Internal Standard # 2 (BPFB)(DUP1)
+		SI #: 900	Formula: C6BrF5	CAS #: 344047
+	3.	HAPSITE Internal Standard # 2 (BPFB)(DUP2)
+		SI #: 899	Formula: C6BrF5	CAS #: 344047
+	4.	Benzene, bromopentafluoro-
+		SI #: 897	Formula: C6BrF5	CAS #: 344047
+	5.	HAPSITE Internal Standard # 2 (BPFB)(DUP3)
+		SI #: 895	Formula: C6BrF5	CAS #: 344047
+282 - 297      	285       	03:56     	279791         	0.01      
+	1.	Pregnan-20-one, 3,11,17,21-tetrahydroxy-
+		SI #: 421	Formula: C21H34O5	CAS #: 53021
+	2.	3-(7-Hydroxy-2,4b-dimethyl-1,4,4a,4b,5,6
+		SI #: 418	Formula: C19H30O2	CAS #: none
+	3.	4-[1-(4-Amino-3-chlorophenyl)-1-methylet
+		SI #: 410	Formula: C15H16ClNO	CAS #: 839418
+	4.	Pregnane-3,11,17,20,21-pentol, cyclic 17
+		SI #: 393	Formula: C25H43BO5	CAS #: 30888483
+	5.	Pregnane-3,11,17,20-tetrol, cyclic 17,20
+		SI #: 387	Formula: C25H43BO4	CAS #: 30882634
+478 - 497      	484       	06:30     	290397         	0.01      
+	1.	Cyclotetrasiloxane, octamethyl-
+		SI #: 616	Formula: C8H24O4Si4	CAS #: 556672
+	2.	Cyclotetrasiloxane, octamethyl-(DUP1)
+		SI #: 607	Formula: C8H24O4Si4	CAS #: 556672
+	3.	Cyclotetrasiloxane, octamethyl-(DUP2)
+		SI #: 590	Formula: C8H24O4Si4	CAS #: 556672
+	4.	trisiloxane, 1,1,1,5,5,5-hexamethyl-3-[(
+		SI #: 589	Formula: C9H28O3Si4	CAS #: none
+	5.	Cyclotetrasiloxane, octamethyl-(DUP3)
+		SI #: 583	Formula: C8H24O4Si4	CAS #: 556672
+580 - 591      	585       	07:49     	287617         	0.01      
+	1.	Ethanol, 2-(9-octadecenyloxy)-, (Z)-
+		SI #: 579	Formula: C20H40O2	CAS #: 5353253
+	2.	Chloromethyl 7-chloroundecanoate
+		SI #: 563	Formula: C12H22Cl2O2	CAS #: 80418935
+	3.	9,12-Octadecadienoic acid (Z,Z)-
+		SI #: 561	Formula: C18H32O2	CAS #: 60333
+	4.	E-11-Tetradecen-1-ol trifluoroacetate
+		SI #: 559	Formula: C16H27F3O2	CAS #: 35256
+	5.	Oxacyclotetradecan-2-one, 13-methyl-
+		SI #: 557	Formula: C14H26O2	CAS #: 57092327
+
