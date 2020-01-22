@@ -215,7 +215,7 @@ public class Converter {
         try {
             //mache einen FileOutputStream, den wir später verwenden um Sachen
             //auf unserer Festplatte speichern zu können
-            FileOutputStream output = new FileOutputStream(pathTo + dateiName + ".xlsx");
+            FileOutputStream output = new FileOutputStream(pathTo + dateiName + ".xls");
 
             //schreibe die Datei auf unsere Festplatte
             workbook.write(output);
