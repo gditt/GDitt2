@@ -56,7 +56,7 @@ public class Converter {
         try {
             //mache einen FileOutputStream, den wir später verwenden um Sachen
             //auf unserer Festplatte speichern zu können
-            FileOutputStream output = new FileOutputStream("C:\\Users\\Nutzer\\Documents\\Dateien_Georg_Uni\\" + dateiName + ".xsl");
+            FileOutputStream output = new FileOutputStream("C:\\Users\\Jonny\\Documents\\" + dateiName + ".xsl");
 
             //schreibe die Datei auf unsere Festplatte
             workbook.write(output);

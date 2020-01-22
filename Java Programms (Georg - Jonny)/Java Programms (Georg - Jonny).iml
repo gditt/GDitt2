@@ -16,7 +16,6 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="library" name="poi-4.1.1" level="project" />
     <orderEntry type="module-library">
       <library>
         <CLASSES>
