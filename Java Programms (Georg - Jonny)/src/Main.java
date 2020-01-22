@@ -1,10 +1,13 @@
 import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.util.stream.Stream;
 
 public class Main {
 
     public static void main(String[] args) throws IOException {
-        Converter converterOne = new Converter("C:\\Users\\Nutzer\\Documents\\TD_Carbon_Tribed_Standard_Georg_20191203_03.apr");
+        Converter converterOne = new Converter("C:\\Users\\Jonny\\Documents\\Uni\\Georg\\GDitt2\\200115_original_.apr_Daten", "C:\\Users\\Jonny\\Documents\\Georg\\");
         converterOne.umwandeln();
-//        System.out.println( converterOne.umwandeln());
     }
 }
