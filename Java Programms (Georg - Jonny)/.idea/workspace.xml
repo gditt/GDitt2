@@ -3,32 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e6bae88e-c171-48af-ba9b-d85a4376c968" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/200115_original .apr_Daten/TD_Carbon_Tribed_Standard_Georg_20191203_03.apr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/200115_original .apr_Daten/TD_Carbon_Tribed_Standard_Georg_20191203_04.apr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/200115_original .apr_Daten/TD_Carbon_Tribed_Standard_Georg_20191203_05.apr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/200115_original .apr_Daten/TD_Carbon_Tribed_Standard_Georg_20191205_01.apr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/200115_original .apr_Daten/TD_Carbon_Tribed_Standard_Georg_20191205_02.apr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/200115_original .apr_Daten/TD_Carbon_Tribed_Standard_Georg_20191205_03.apr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/200115_original .apr_Daten/TD_Carbon_Tribed_Standard_Georg_20191205_04.apr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/200115_original .apr_Daten/TD_Carbon_Tribed_Standard_Georg_20191205_05.apr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/200115_original .apr_Daten/TD_Carbon_Tribed_Standard_Georg_20191205_06.apr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/200115_original .apr_Daten/TD_Carbon_Tribed_Standard_Georg_20191205_07.apr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/200115_original .apr_Daten/TD_Carbon_Tribed_Standard_Georg_20191205_08.apr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/200115_original .apr_Daten/TD_Carbon_Tribed_Standard_Georg_20191206_02.apr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/200115_original .apr_Daten/TD_Carbon_Tribed_Standard_Georg_20191206_03.apr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/200115_original .apr_Daten/TD_Carbon_Tribed_Standard_Georg_20191206_04.apr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/200115_original .apr_Daten/TD_Carbon_Tribed_Standard_Georg_20191206_05.apr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/200115_original .apr_Daten/TD_Carbon_Tribed_Standard_Georg_20191206_06.apr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/200115_original .apr_Daten/TD_Carbon_Tribed_Standard_Georg_20191206_07.apr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/200115_original .apr_Daten/TD_Carbon_Tribed_Standard_Georg_20191206_08.apr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/200115_original .apr_Daten/TD_Carbon_Tribed_Standard_Georg_20191206_09.apr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/200115_original .apr_Daten/TD_Carbon_Tribed_Standard_Georg_20191206_10.apr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/200115_original .apr_Daten/TD_Carbon_Tribed_Standard_Georg_20191206_11.apr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TD_Carbon_Tribed_Standard_Georg_20191203_03.apr" beforeDir="false" afterPath="$PROJECT_DIR$/TD_Carbon_Tribed_Standard_Georg_20191203_03.apr" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java Programms (Georg - Jonny)/Converter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Programms (Georg - Jonny)/Converter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Programms (Georg - Jonny)/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Programms (Georg - Jonny)/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Converter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Converter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,22 +101,22 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="478" y="678" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1579640103763" />
-    <state width="1234" height="491" key="GridCell.Tab.0.bottom" timestamp="1579727247149">
+    <state width="1234" height="396" key="GridCell.Tab.0.bottom" timestamp="1579727606649">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="491" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1579727247149" />
-    <state width="1234" height="491" key="GridCell.Tab.0.center" timestamp="1579727247149">
+    <state width="1234" height="396" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1579727606649" />
+    <state width="1234" height="396" key="GridCell.Tab.0.center" timestamp="1579727606649">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="491" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1579727247149" />
-    <state width="1234" height="491" key="GridCell.Tab.0.left" timestamp="1579727247148">
+    <state width="1234" height="396" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1579727606649" />
+    <state width="1234" height="396" key="GridCell.Tab.0.left" timestamp="1579727606649">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="491" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1579727247148" />
-    <state width="1234" height="491" key="GridCell.Tab.0.right" timestamp="1579727247149">
+    <state width="1234" height="396" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1579727606649" />
+    <state width="1234" height="396" key="GridCell.Tab.0.right" timestamp="1579727606649">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="491" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1579727247149" />
+    <state width="1234" height="396" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1579727606649" />
     <state width="1234" height="491" key="GridCell.Tab.1.bottom" timestamp="1579727247149">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -161,10 +137,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1038" y="311" width="1267" height="849" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1579716636532" />
-    <state x="981" y="525" key="com.intellij.ide.util.TipDialog" timestamp="1579715188288">
+    <state x="981" y="525" key="com.intellij.ide.util.TipDialog" timestamp="1579727555759">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="981" y="525" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1579715188288" />
+    <state x="981" y="525" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1579727555759" />
     <state x="661" y="233" key="new project wizard" timestamp="1579277248523">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
